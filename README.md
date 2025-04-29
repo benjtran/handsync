@@ -26,8 +26,6 @@ HandSync is a 3D-printed robotic hand controlled via Python and Arduino, designe
 - The 3D-printed fingers may lack sufficient grip strength.
 - Elastic bands may stretch over time, affecting performance.
 
----
-
 ## 📦 **Future Improvements**
 
 - Replace elastics with springs for better durability.
