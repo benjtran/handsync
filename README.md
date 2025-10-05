@@ -2,7 +2,7 @@
 
 HandSync is a 3D-printed robotic hand controlled via Python and Arduino, designed to replicate human hand movements detected through a camera using OpenCV and serial communication.
 
-See a demo below!
+Click the image below for a demo!
 
 <a href="https://www.youtube.com/watch?v=PIeqek-UMiA">
   <img src="images/robot_hand.PNG" width="400" alt="Iris Plot">
